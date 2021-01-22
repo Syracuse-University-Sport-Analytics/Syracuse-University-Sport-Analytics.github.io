@@ -1,5 +1,5 @@
 ---
-title: "Justin Ehrlich"
+title: "Syracuse University Sport Analytics"
 output: html_document
 ---
 
